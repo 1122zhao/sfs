@@ -441,7 +441,7 @@ button:active {
 /*--------------home-------------------*/
 .home {
     padding: 25rem 0;
-    background: url("/Assets/img/hero.jpg") no-repeat center;
+    background: url("../Assets/img/hero.jpg") no-repeat center;
     background-size: cover;
     clip-path: polygon(20% 0%, 80% 0%, 100% 0, 100% 80%, 28% 100%, 0% 80%, 0 0);
 }
@@ -764,7 +764,7 @@ button:active {
   10. COUNT
 -----------------------------------------*/
 .counts {
-    background: linear-gradient(rgba(0, 153, 255, 0.5), rgba(0, 153, 255, 0.5)), url("/Assets/img/home.jpg") no-repeat fixed center;
+    background: linear-gradient(rgba(0, 153, 255, 0.5), rgba(0, 153, 255, 0.5)), url("../Assets/img/home.jpg") no-repeat fixed center;
     background-size: cover;
     padding: 2rem;
 }
@@ -1196,7 +1196,7 @@ body { background-color: #fff; }
 -----------------------------------------------------------------*/
 .subscribe {
     padding: 80px 0;
-    background: linear-gradient(rgba(0, 153, 255, 0.5), rgba(0, 153, 255, 0.5)), url("/Assets/img/portfolio/portfolio-02.jpg") no-repeat fixed center;
+    background: linear-gradient(rgba(0, 153, 255, 0.5), rgba(0, 153, 255, 0.5)), url("../Assets/img/portfolio/portfolio-02.jpg") no-repeat fixed center;
     background-size: cover;
     color: whitesmoke;
 }
